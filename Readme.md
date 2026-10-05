@@ -148,7 +148,7 @@ Avg Salary = AVERAGE(DimEmployee[MonthlyIncome])
      git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY-NAME.git
      ```
    * Open `Atlas_Labs_HR_Analytics.pbix` in Power BI Desktop.
-   * *(Note: If data source paths break, update the file directory location in **Power Query Editor > Data Source Settings**).*
+
 
 2. **Interactive Online Link (Optional):**
    * [Click here to view the live published Power BI Report] https://github.com/shreeshaashetty7/Atlas-Labs-HR-Analytics/blob/main/HR%20analytics%20dashboard.pbix
